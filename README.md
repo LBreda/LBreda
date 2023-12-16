@@ -2,7 +2,7 @@
 
 I'm **Lorenzo**, and I'm a full stack web developer.
 
-* 🏭 I work for the Governatorate of the [🇻🇦 Vatican City State](https://www.vaticanstate.va/), and I previously worked for [TwoBeeSolution](https://twobeesolution.com), a IT solution provider in Rome, Italy
+* 🏭 I work for the Governorate of the [🇻🇦 Vatican City State](https://www.vaticanstate.va/), and I previously worked for [TwoBeeSolution](https://twobeesolution.com), a IT solution provider in Rome, Italy
 * 🥇 My coding achivements are available on [CodersRank](https://profile.codersrank.io/user/lbreda/)
 * 📄 My curriculum vitae is [here on GitHub](https://github.com/LBreda/cv)!
 * 🌐 I have a [personal homepage](https://lbreda.com/en/)
