@@ -7,5 +7,4 @@ I'm **Lorenzo**, and I'm a full stack web developer.
 * 📄 My curriculum vitae is [here on GitHub](https://github.com/LBreda/cv)!
 * 🌐 I have a [personal homepage](https://lbreda.com/en/)
 * 💬 I mainly work as a [Laravel](https://laravel.com) developer, but I'm pretty experienced in [some other technologies](https://github.com/LBreda/cv)
-* 🏫 I'm studying [Nuxt](https://nuxtjs.org/) and I'm liking it very much
 * 📷 I'm a hobbist [photographer](https://instagram.com/lbreda/)
